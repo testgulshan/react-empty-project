@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`React compnent test 1`] = `
+<main>
+  <header
+    className="app-header"
+  >
+    <strong>
+      SIZEES
+    </strong>
+  </header>
+  <section
+    className="main-banner"
+  >
+    <h1>
+      Welcome dev 🧪
+    </h1>
+  </section>
+</main>
+`;
